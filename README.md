@@ -10,12 +10,12 @@ The project was conceived in response to the need for a budget-friendly communic
 
 ### Objectives
 
-1. **Full-Stack Development**: Gain hands-on experience in developing end-user applications using software development tools.
-2. **Software Testing**: Implement static, dynamic, and user testing to validate software systems.
-3. **Team Functionality**: Understand and apply principles of effective teamwork, including conflict management and maintaining professional relationships.
-4. **Software Analysis**: Analyse complex software systems focusing on data models and state models.
-5. **Software Engineering Life Cycle**: Understand and apply iterative software development practices, including requirement elicitation and system design.
-6. **Continuous Integration and Deployment**: Utilize version control and deployment tools for integrating and deploying software in a team environment.
+1. **Full-Stack Development**: Gain hands-on experience in developing end-user applications using software development tools. Skills developed include frontend and backend programming, database management, and API integration.
+2. **Software Testing**: Implement static, dynamic, and user testing to validate software systems. Skills developed include writing and executing test cases, automated testing, and utilizing testing frameworks.
+3. **Team Functionality**: Understand and apply principles of effective teamwork, including conflict management and maintaining professional relationships. Skills developed include project management, communication, and collaborative problem-solving.
+4. **Software Analysis**: Analyse complex software systems focusing on data models and state models. Skills developed include system modeling, data flow analysis, and using analysis tools.
+5. **Software Engineering Life Cycle**: Understand and apply iterative software development practices, including requirement elicitation and system design. Skills developed include agile methodologies, sprint planning, and design documentation.
+6. **Continuous Integration and Deployment**: Utilize version control and deployment tools for integrating and deploying software in a team environment. Skills developed include using Git, CI/CD pipelines, and cloud deployment.
 
 ## Iterative Development
 
