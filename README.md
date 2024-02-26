@@ -43,6 +43,26 @@ The backend of **UNSW Beans** was deployed to the cloud, ensuring accessibility 
 
 Throughout the project, we faced various technical and team-related challenges. Through effective problem-solving, research, and collaboration, we overcame these obstacles, implementing features that met or exceeded project specifications.
 
+## Quantitative Impact and Results
+
+The project was highly successful, achieving a near-perfect score of 69/70, reflecting the quality, functionality, and impact of the UNSW Beans platform on improving virtual collaboration.
+
+## Personal Contribution
+
+As a team leader and key developer, I spearheaded the project's management, planning, and execution phases. My direct contributions included developing the user authentication system, real-time messaging functionality, and channel management features, utilizing my skills in JavaScript and TypeScript to implement these critical components efficiently.
+
+## Technologies and Tools
+
+Leveraged advanced features of JavaScript and TypeScript for backend development, focusing on creating a secure and user-friendly authentication system, enabling seamless messaging and channel operations. This hands-on experience deepened my understanding and proficiency in these languages.
+
+## Soft Skills Demonstrated
+
+My role as a team leader allowed me to demonstrate significant leadership skills, from coordinating tasks among team members to ensuring project milestones were met on time. I played a crucial role in fostering a collaborative environment, resolving conflicts, and guiding the team towards our collective goal.
+
+## Reflections and Learning
+
+The project presented numerous coordination challenges, especially in aligning team members’ schedules and dividing tasks according to individual strengths. Overcoming these hurdles taught me valuable lessons in project management, effective communication, and the importance of flexibility in team dynamics. This experience not only honed my technical skills but also sparked a profound interest in programming, particularly in exploring higher-level languages such as Python, which I am eager to pursue further.
+
 ## Future Directions
 
 The project laid a solid foundation for future development, with plans to enhance the user interface, integrate additional collaboration tools, and improve system scalability and security.
