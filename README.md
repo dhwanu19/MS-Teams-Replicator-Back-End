@@ -41,7 +41,7 @@ The backend of **UNSW Beans** was deployed to the cloud, ensuring accessibility 
 
 ## Challenges and Solutions
 
-Throughout the project, we faced various technical and team-related challenges. Through effective problem-solving, research, and collaboration, we overcame these obstacles, implementing features that met or exceeded project specifications.
+Throughout the project, we faced various technical and team-related challenges. Through effective problem-solving, research, and collaboration, we overcame these obstacles, implementing features that exceeded project specifications.
 
 ## Quantitative Impact and Results
 
